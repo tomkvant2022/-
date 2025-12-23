@@ -1,0 +1,7 @@
+{
+  "name": "PolyGPT-5: Decentralized AI Network",
+  "description": "A futuristic decentralized AI platform inspired by GPT-5 capabilities, running on a simulated Polygon-like blockchain infrastructure for verifiable and transparent inference.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
